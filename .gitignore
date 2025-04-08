@@ -49,3 +49,11 @@ service-account.pem
 service-account-csr.json
 *.swp
 .idea/
+
+# ngdangdat
+operations/**/*
+.bash_history
+.lesshst
+.local/
+.wget-hsts
+downloads/**/*
